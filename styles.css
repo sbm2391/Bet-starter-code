@@ -139,7 +139,7 @@ nav a {
 }
 
 .about {
-  background: url("images/city-scape.svg") no-repeat right center;
+  background: url("city-scape.svg") no-repeat right center;
   background-size: cover;
   height: 440px;
   margin-top: -90px;
@@ -215,7 +215,7 @@ h2 {
 }
 
 .what-is {
-  background: url("images/forklift.svg") no-repeat center center;
+  background: url("forklift.svg") no-repeat center center;
   background-size: cover;
   color: white;
 }
@@ -249,7 +249,7 @@ h2 {
 }
 
 .buiding-description {
-  padding-bottom: 40px;∫
+  padding-bottom: 40px;
 }
 
 .item {
